@@ -12,7 +12,7 @@ This project analyzes employee termination trends using **Excel (Pivot Tables) &
 📌 `[Tableau_Dashboard_Link.txt]` – Link to my Tableau visualization  
 
 ## 📊 Tableau Dashboard  
-🔗 [[View the Interactive Tableau Dashboard Here](https://public.tableau.com/app/profile/swaraj.borhade/vizzes)](#) 
+🔗 [[View the Interactive Tableau Dashboard Here](https://public.tableau.com/app/profile/swaraj.borhade/vizzes)] 
 
 ## 🛠 Tools Used  
 ✔ **Excel** – Data Cleaning & Pivot Table Analysis  
