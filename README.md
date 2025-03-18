@@ -1,29 +1,28 @@
-# 📊 Employee Termination Analysis 🚀  
+# 🏢 Employee Termination Analysis 🚀  
 
 ## 🔍 Overview  
-This project analyzes **employee termination trends** using **Excel Pivot Tables & Tableau Dashboards**. The objective is to:  
-✔ Identify termination patterns over time  
-✔ Analyze department-wise turnover rates  
-✔ Determine if gender or age impacts termination rates  
-✔ Provide actionable insights to reduce attrition  
+This project analyzes **employee termination trends** using **Excel & Tableau** to identify patterns and improve retention strategies.  
 
 ## 📂 Files in This Repository  
-📌 `Employee_Termination_Insights.xlsx` – Excel file with Pivot Table analysis  
-📌 `Tableau_Dashboard_Link.txt` – Contains a link to my Tableau visualization  
-📌 `tableau_dashboard.png` – Screenshot preview of the dashboard  
+📌 `employee_termination_data.xlsx` – Excel file with analysis  
+📌 `termination_dashboard.twbx` – Tableau workbook  
+
+## 📊 Key Insights  
+✔ **2014 had the highest employee terminations** 📉  
+✔ **The "Meats" department had the highest turnover rate** 🍖  
+✔ **Female employees had a slightly higher termination rate** 👩‍💼  
+
+## 📈 Methodology  
+1️⃣ **Data Cleaning & Preparation** – Processed the dataset using Excel.  
+2️⃣ **Exploratory Data Analysis** – Identified key trends affecting terminations.  
+3️⃣ **Tableau Dashboard** – Created an interactive visualization to highlight patterns.  
 
 ## 📊 Tableau Dashboard  
 🔗 **[View the Interactive Tableau Dashboard Here](https://public.tableau.com/views/YourDashboardName)**  
 
-## 📈 Key Insights from the Analysis  
-✔ **2014 had the highest employee terminations** 📉  
-✔ **The "Meats" department had the highest turnover rate** 🍖  
-✔ **Female employees had a higher termination rate** 👩‍💼  
-✔ **Legal department had the lowest employee exits** ⚖️  
-
 ## 🛠 Tools Used  
-✔ **Excel** – Data Cleaning & Pivot Table Analysis  
-✔ **Tableau** – Interactive Data Visualization   
+✔ **Excel** – Pivot Tables & Data Analysis  
+✔ **Tableau** – Data Visualization  
 
 ## 📢 Contact  
 👤 **Swaraj Borhade**  
