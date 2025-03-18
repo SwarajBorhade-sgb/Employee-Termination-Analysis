@@ -18,7 +18,7 @@ This project analyzes **employee termination trends** using **Excel & Tableau** 
 3️⃣ **Tableau Dashboard** – Created an interactive visualization to highlight patterns.  
 
 ## 📊 Tableau Dashboard  
-🔗 **[View the Interactive Tableau Dashboard Here](https://public.tableau.com/views/YourDashboardName)**  
+🔗 **[View the Interactive Tableau Dashboard Here]((https://public.tableau.com/app/profile/swaraj.borhade/vizzes))**  
 
 ## 🛠 Tools Used  
 ✔ **Excel** – Pivot Tables & Data Analysis  
