@@ -9,7 +9,7 @@ This project analyzes employee termination trends using **Excel (Pivot Tables) &
 
 ## 📂 Files in This Repository  
 📌 `Employee_Termination_Insights.xlsx` – Excel file with Pivot Table analysis  
-📌 `Tableau_Dashboard_Link.txt` – Link to my Tableau visualization  
+📌 `[Tableau_Dashboard_Link.txt](https://public.tableau.com/app/profile/swaraj.borhade/vizzes)` – Link to my Tableau visualization  
 
 ## 📊 Tableau Dashboard  
 🔗 [[View the Interactive Tableau Dashboard Here](https://public.tableau.com/app/profile/swaraj.borhade/vizzes)](#) 
